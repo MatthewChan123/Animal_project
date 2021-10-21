@@ -1,0 +1,48 @@
+body {
+    border-width:10px;
+    border-color:black;
+    background-color:lightsalmon;
+    text-align:center;
+}
+.header_div {
+    background-color:red;
+    color:black;
+    border-color:turquoise;
+    border-style:dashed;
+    border-width:5px;
+    font-style:'Noto Sans Mono', monospace;
+    font-size:20px;
+}
+#instructions {
+    color:turquoise;
+    font-style:'Noto Sans Mono', monospace;
+}
+button {
+    color:turquoise;
+    background-color:navy;
+    font-style:'Noto Sans Mono', monospace;
+    border-color:black;
+    border-width:5px;
+}
+#animal_audio_count {
+    color:black;
+    font-style:'Noto Sans Mono', monospace;
+}
+#animal_name {
+    color:black;
+    font-style:'Noto Sans Mono', monospace;
+}
+#animal_pictures {
+    border-style:dotted;
+    border-width:5px;
+    border-color:black;
+}
+.footer_div {
+    color:black;
+    font-style:'Noto Sans Mono', monospace;
+    background-color:teal;
+    border-style:ridge;
+    border-color:black;
+    border-width:5px;
+    font-size:30px;
+}
